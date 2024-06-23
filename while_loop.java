@@ -4,7 +4,7 @@ class whileloop
 public static void main(String[]args)
 {
 int a;
-System.out.print("Enter any no: ");
+System.out.print("Enter any number: ");
 Scanner s=new Scanner(System.in);
 a=s.nextInt();
 while(a>0)
